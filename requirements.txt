@@ -1,1 +1,1 @@
-requests, json, time, xlwt, pyfiglet,termcolor, colorama
+requests, json, time, xlwt, pyfiglet,termcolor, colorama, bs4
