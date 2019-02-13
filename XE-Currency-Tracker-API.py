@@ -87,7 +87,8 @@ def specific_requests():
 
 
 if __name__ == "__main__":
-    cprint(figlet_format('XE Currency Rate Excel Bot V2 ', font='speed'), 'cyan', attrs=['bold'])
+    cprint(figlet_format('XE Currency Rate Excel Bot V1', font='speed'), 'cyan', attrs=['bold'])
+    print ('Created by Alin Basuljevic
     print ('Enter [1] for General Excel Sheet Containing All Possible Conversion Rates')
     print ('Enter [2] for Specific Excel Sheet Containing Defined Conversion Rates')
     menu_selector = int(input('Enter Menu Option: '))
